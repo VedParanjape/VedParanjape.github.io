@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Ved Paranjape — VP monogram</title>
+  <rect x="1" y="1" width="62" height="62" rx="15" fill="#101925" stroke="#34465D"/>
+  <path d="M10 19L23 46L36 19" stroke="#EDF3FF" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M36 46V19H45C51.1 19 55 22.8 55 28.5C55 34.2 51.1 38 45 38H36" stroke="#75F0C3" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M12 55H23" stroke="#80A5FF" stroke-width="2"/>
+</svg>
